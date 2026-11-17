@@ -27,7 +27,7 @@ A Python-based cookie auditing utility designed to parse, normalize, inspect, an
 
 ## Run
 1. Run `cookies-grabber.py` using a single domain (e.g., `domain.com`) from the log files.
-<< Supported formats are listed below the image >>
+   Supported formats are listed below the image
 <img width="1895" height="525" alt="image" src="https://github.com/user-attachments/assets/22b72e15-5a04-4cbe-b7bd-f76d648c4027" />
 
 3. Run `advanced-cookies-checker.py` using the generated `cookies.txt` file in the same directory.
