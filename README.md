@@ -25,10 +25,11 @@ A Python-based cookie auditing utility designed to parse, normalize, inspect, an
 - http.cookiejar
 - tempfile
 
-## run
-- run cookies-grabber.py use domin.com single domin fomr logs files
-- then run advanced-cookies-checker.py with cookies.txt file same lication
+## Run
+1. Run `cookies-grabber.py` using a single domain (e.g., `domain.com`) from the log files.
+2. Run `advanced-cookies-checker.py` using the generated `cookies.txt` file in the same directory.
 
+```text
 Domain-specific authorized log files
               |
               v
@@ -45,6 +46,7 @@ Domain-specific authorized log files
               |
               v
      valid_cookies.txt
+```
 
 ## Disclaimer
 
