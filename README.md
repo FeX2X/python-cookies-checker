@@ -30,7 +30,7 @@ A Python-based cookie auditing utility designed to parse, normalize, inspect, an
    Supported formats are listed below the image
 <img width="1895" height="525" alt="image" src="https://github.com/user-attachments/assets/22b72e15-5a04-4cbe-b7bd-f76d648c4027" />
 
-3. Run `advanced-cookies-checker.py` using the generated `cookies.txt` file in the same directory.
+2. Run `advanced-cookies-checker.py` using the generated `cookies.txt` file in the same directory.
 
 ```text
 Domain-specific authorized log files
