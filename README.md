@@ -3,8 +3,8 @@
 A Python-based cookie auditing utility designed to parse, normalize, inspect, and validate Netscape-format cookie files.
 
 ## Target Website
-#**some time if u see error or block change you ip**
-**interested to make bank-cookies any ida dm me**
+#**some time if u see error or block change you ip.**
+#**interested to make bank-cookies any ida dm.**
 - **Site** — https://www.loaded.com/ , https://primevideo.com
 
 ## Features
