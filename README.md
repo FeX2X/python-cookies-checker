@@ -4,7 +4,7 @@ A Python-based cookie auditing utility designed to parse, normalize, inspect, an
 
 ## Target Website
 #**some time if u see error or block change you ip.**
-#**interested to make bank-cookies any ida dm.**
+#**interested to make bank-cookies any idea dm.**
 - **Site** — https://www.loaded.com/ , https://primevideo.com
 
 ## Features
